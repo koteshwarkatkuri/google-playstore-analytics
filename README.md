@@ -37,10 +37,10 @@ Raw Data (10,841 records)
 ## Dashboard Screenshots
 
 ### Page 1 — Market Overview
-![Page 1](screenshots/page1_overview.png)
+![Page 1](https://raw.githubusercontent.com/koteshwarkatkuri/google-playstore-analytics/main/Page01_Overview.png)
 
 ### Page 2 — Deep Dive Analysis
-![Page 2](screenshots/page2_deepdive.png)
+![Page 2](https://raw.githubusercontent.com/koteshwarkatkuri/google-playstore-analytics/main/Page02_DeepDive.png)![Page 1](screenshots/page1_overview.png)
 
 ## Business Recommendations
 1. Build free apps targeting Everyone audience segment
